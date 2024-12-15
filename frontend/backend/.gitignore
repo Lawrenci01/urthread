@@ -8,10 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-.env
-.DS_Store
-<<<<<<< HEAD
-
+dist
+dist-ssr
+*.local
 
 # Editor directories and files
 .vscode/*
@@ -23,5 +22,6 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
-=======
->>>>>>> 605501c (Added backend and frontend changes)
+
+
+.env
